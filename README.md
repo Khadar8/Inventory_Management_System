@@ -65,7 +65,7 @@ Price: 2.5
 
 ## 📌 Author
 👨‍💻 **Your Name**  
-🔗 [GitHub Profile](https://github.com/YOUR_GITHUB_USERNAME)
+🔗 [GitHub Profile](https://github.com/Khadar8)
 
 ## 📜 License
 This project is **open-source** and free to use under the [MIT License](LICENSE).
